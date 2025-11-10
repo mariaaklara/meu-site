@@ -1,8 +1,15 @@
+header {
+   boder-bottom:solid 3px #ca9c11 ;
+  padding: 10px;
+  font-size: 22px;
+  color: white;
+}
 body{
   background-color:#f892f8 }
 h1{ color: #ff66ff }
-P{
+p{
   font-Size: 16 px;
   color:  ;
 }
+
 
